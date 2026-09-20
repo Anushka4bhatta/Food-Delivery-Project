@@ -1,0 +1,49 @@
+location,cuisine,total_orders
+Bangalore,Indian,1504
+Delhi,Biryani,1486
+Pune,Indian,1482
+Hyderabad,Indian,1475
+Delhi,Indian,1474
+Mumbai,Indian,1472
+Bangalore,Biryani,1461
+Kolkata,Indian,1457
+Pune,Biryani,1445
+Mumbai,Biryani,1422
+Kolkata,Biryani,1399
+Hyderabad,Biryani,1363
+Mumbai,Fast Food,1311
+Delhi,Fast Food,1299
+Kolkata,Fast Food,1253
+Pune,Fast Food,1223
+Bangalore,Chinese,1208
+Hyderabad,Fast Food,1202
+Bangalore,Fast Food,1191
+Pune,Chinese,1176
+Kolkata,Chinese,1169
+Hyderabad,Chinese,1151
+Mumbai,Chinese,1137
+Delhi,Chinese,1110
+Kolkata,North Indian,1044
+Pune,North Indian,1018
+Bangalore,North Indian,989
+Delhi,North Indian,988
+Mumbai,North Indian,978
+Hyderabad,North Indian,971
+Delhi,South Indian,883
+Pune,South Indian,871
+Bangalore,South Indian,865
+Hyderabad,South Indian,865
+Mumbai,South Indian,841
+Kolkata,South Indian,810
+Delhi,Italian,659
+Pune,Italian,658
+Bangalore,Italian,645
+Kolkata,Italian,643
+Hyderabad,Italian,641
+Mumbai,Italian,614
+Hyderabad,Desserts,543
+Mumbai,Desserts,542
+Pune,Desserts,530
+Delhi,Desserts,523
+Kolkata,Desserts,512
+Bangalore,Desserts,497
