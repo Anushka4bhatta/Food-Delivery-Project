@@ -103,3 +103,6 @@ The project uses a synthetic dataset containing **50,000 food-delivery orders**.
 - Desserts
 
 ---
+
+## 📊 Power BI Dashboard 
+<img width="1197" height="671" alt="image" src="https://github.com/user-attachments/assets/d1ec8617-d96d-4031-aa25-ad1654d73d5e" />
